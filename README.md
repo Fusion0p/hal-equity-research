@@ -106,4 +106,4 @@ This repository is an independent learning project. It is not investment advice 
 
 ## Author
 
-[Your Name] | [LinkedIn] | [Email]
+Shrey Bhardwaj  | shreyop07@gmail.com
