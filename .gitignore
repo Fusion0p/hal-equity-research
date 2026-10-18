@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+hal_mc_values.npy
+.DS_Store
